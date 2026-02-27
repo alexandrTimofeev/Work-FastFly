@@ -1,9 +1,6 @@
 ﻿using DG.Tweening;
 using System;
-using System.Drawing;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
-using static UnityEngine.Rendering.DebugUI;
 
 // EntryPoint сцены Game
 public class GameEntryPoint : ISceneEntryPoint

@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "GameGlobalDataPreload", menuName = "SGames/GameGlobalDataEmpty")]
