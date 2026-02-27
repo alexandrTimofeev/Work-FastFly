@@ -1,0 +1,372 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da7dc7510d721b0488c13e58c4157800, type: 3}
+  m_Name: AchievimentsData
+  m_EditorClassIdentifier: 
+  allAchiviements:
+  - Name: Level0D
+    Info:
+      ID: Level0D
+      Title: 'Level 1 [D]'
+      InfoTxt: Finish Level 1
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507325983
+  - Name: Level0A
+    Info:
+      ID: Level0A
+      Title: 'Level 1 [A]'
+      InfoTxt: Finish level 1 with 3,000 points or more
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326022
+  - Name: Level0S
+    Info:
+      ID: Level0S
+      Title: 'Level 1 [S]'
+      InfoTxt: Finish level 1 with 6,000 points or more
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326006
+  - Name: Level1D
+    Info:
+      ID: Level1D
+      Title: 'Level 2 [D]'
+      InfoTxt: Finish Level 2
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326021
+  - Name: Level1A
+    Info:
+      ID: Level1A
+      Title: 'Level 2 [A]'
+      InfoTxt: Finish level 2 with 4,000 points or more
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326005
+  - Name: Level1S
+    Info:
+      ID: Level1S
+      Title: 'Level 2 [S]'
+      InfoTxt: Finish level 2 with 7,000 points or more
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326023
+  - Name: Level2D
+    Info:
+      ID: Level2D
+      Title: 'Level 3 [D]'
+      InfoTxt: Finish Level 3
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326027
+  - Name: Level2A
+    Info:
+      ID: Level2A
+      Title: 'Level 3 [A]'
+      InfoTxt: Finish level 3 with 5,000 points or more
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326028
+  - Name: Level2S
+    Info:
+      ID: Level2S
+      Title: 'Level 3 [S]'
+      InfoTxt: Finish level 3 with 7,200 points or more
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326029
+  - Name: Level3D
+    Info:
+      ID: Level3D
+      Title: 'Level 4 [D]'
+      InfoTxt: Finish Level 4
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326033
+  - Name: Level3A
+    Info:
+      ID: Level3A
+      Title: 'Level 4 [A]'
+      InfoTxt: Finish level 4 with 4,000 points or more
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326034
+  - Name: Level3S
+    Info:
+      ID: Level3S
+      Title: 'Level 4 [S]'
+      InfoTxt: Finish level 4 with 8,500 points or more
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326035
+  - Name: Level4D
+    Info:
+      ID: Level4D
+      Title: 'Level 5 [D]'
+      InfoTxt: Finish Level 5
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326039
+  - Name: Level4A
+    Info:
+      ID: Level4A
+      Title: 'Level 5 [A]'
+      InfoTxt: Finish level 5 with 5,000 points or more
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326040
+  - Name: Level4S
+    Info:
+      ID: Level4S
+      Title: 'Level 5 [S]'
+      InfoTxt: Finish level 5 with 10,000 points or more
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 1, b: 1, a: 1}
+      colorNo: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326041
+  - Name: LevelAllD
+    Info:
+      ID: LevelAllD
+      Title: 'All [D]'
+      InfoTxt: Finish all level with D rank
+      spriteYes: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300066, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 0.93333334, b: 0, a: 1}
+      colorNo: {r: 0.3372549, g: 0.38431373, b: 0.5529412, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326052
+  - Name: LevelAllA
+    Info:
+      ID: LevelAllA
+      Title: 'All [A]'
+      InfoTxt: Finish all level with A rank
+      spriteYes: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300060, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 0.93333334, b: 0, a: 1}
+      colorNo: {r: 0.3372549, g: 0.38431373, b: 0.5529412, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326054
+  - Name: LevelAllS
+    Info:
+      ID: LevelAllS
+      Title: 'All [S]'
+      InfoTxt: Finish all level with S rank
+      spriteYes: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      spriteNo: {fileID: 21300096, guid: 7ab74e659e1f0a34d9cfec21c478fc12, type: 3}
+      colorYes: {r: 1, g: 0.9323611, b: 0, a: 1}
+      colorNo: {r: 0.33806336, g: 0.38400087, b: 0.554717, a: 1}
+    achievementBehaviour:
+      rid: 8636976674507326056
+  references:
+    version: 2
+    RefIds:
+    - rid: 8636976674507325983
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level0D
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 0
+        RequiredScore: 1
+    - rid: 8636976674507326005
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level1A
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 1
+        RequiredScore: 4000
+    - rid: 8636976674507326006
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level0S
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 0
+        RequiredScore: 6000
+    - rid: 8636976674507326021
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level1D
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 1
+        RequiredScore: 1
+    - rid: 8636976674507326022
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level0A
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 0
+        RequiredScore: 3000
+    - rid: 8636976674507326023
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level1S
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 1
+        RequiredScore: 7000
+    - rid: 8636976674507326027
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level2D
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 2
+        RequiredScore: 1
+    - rid: 8636976674507326028
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level2A
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 2
+        RequiredScore: 5000
+    - rid: 8636976674507326029
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level2S
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 2
+        RequiredScore: 7200
+    - rid: 8636976674507326033
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level3D
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 3
+        RequiredScore: 1
+    - rid: 8636976674507326034
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level3A
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 3
+        RequiredScore: 4000
+    - rid: 8636976674507326035
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level3S
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 3
+        RequiredScore: 8500
+    - rid: 8636976674507326039
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level4D
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 4
+        RequiredScore: 1
+    - rid: 8636976674507326040
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level4A
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 4
+        RequiredScore: 5000
+    - rid: 8636976674507326041
+      type: {class: LevelScoreAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: Level4S
+        ProgressType: 0
+        EndValue: 0
+        LevelNumber: 4
+        RequiredScore: 10000
+    - rid: 8636976674507326052
+      type: {class: PlatinaAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: LevelAllD
+        ProgressType: 0
+        EndValue: 0
+        idsBehavioursTest:
+        - Level0D
+        - Level1D
+        - Level2D
+        - Level3D
+        - Level4D
+    - rid: 8636976674507326054
+      type: {class: PlatinaAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: LevelAllA
+        ProgressType: 0
+        EndValue: 0
+        idsBehavioursTest:
+        - Level0A
+        - Level1A
+        - Level2A
+        - Level3A
+        - Level4A
+    - rid: 8636976674507326056
+      type: {class: PlatinaAchievementBehaviour, ns: , asm: Assembly-CSharp}
+      data:
+        IDBehaviour: LevelAllS
+        ProgressType: 0
+        EndValue: 0
+        idsBehavioursTest:
+        - Level0S
+        - Level1S
+        - Level2S
+        - Level3S
+        - Level4S
