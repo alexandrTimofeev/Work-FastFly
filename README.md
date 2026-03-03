@@ -20,7 +20,7 @@
 ### Variables
 
 - `UNITY_VERSION` — Версия Unity (например, 2022.3.62f3).
-- `XCODE_VERSION` — Версия Xcode (например, 16.3.0).
+- `XCODE_VERSION` — Версия Xcode (например, 26.2).
 - `BUNDLE_IDENTIFIER` — Bundle Identifier приложения.
 - `APPLE_TEAM_ID` — Apple Team ID.
 - `MATCH_GIT_URL` — URL репозитория для хранения сертификатов (дожен быть пустым).
